@@ -1,0 +1,13 @@
+venv/
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.DS_Store
+Thumbs.db
