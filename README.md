@@ -28,7 +28,7 @@ Inicia el archivo autoclick.py y listo.
 
 <img src="assets/screen_demo/image.png" width="300" height="670">
 
-## Autor
+## Autores
 
 - [@Norigamin](https://github.com/Norigamin)
 
